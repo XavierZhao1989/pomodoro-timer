@@ -438,8 +438,8 @@ pomodoro,timer,focus,productivity,time management,study,work,concentration,task,
 **推荐做法（使用 GitHub 仓库）：**
 
 ```
-Support URL:        https://github.com/YorickLane/pomodoro-timer
-Privacy Policy URL: https://github.com/YorickLane/pomodoro-timer/blob/main/PRIVACY.md
+Support URL:        https://github.com/XavierZhao1989/pomodoro-timer
+Privacy Policy URL: https://github.com/XavierZhao1989/pomodoro-timer/blob/main/PRIVACY.md
 ```
 
 ---

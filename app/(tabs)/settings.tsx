@@ -458,7 +458,7 @@ export default function SettingsScreen() {
 
         <TouchableOpacity
           style={[styles.settingItem, { backgroundColor: colors.cardBackground }]}
-          onPress={() => Linking.openURL('https://github.com/YorickLane/pomodoro-timer/issues')}
+          onPress={() => Linking.openURL('https://github.com/XavierZhao1989/pomodoro-timer/issues')}
         >
           <View style={styles.settingLeft}>
             <Ionicons name="chatbubble-ellipses" size={24} color={colors.warning} />

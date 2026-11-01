@@ -40,7 +40,7 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 If you have any questions about this Privacy Policy, please contact us:
 
-- GitHub Issues: https://github.com/YorickLane/pomodoro-timer/issues
+- GitHub Issues: https://github.com/XavierZhao1989/pomodoro-timer/issues
 
 ---
 
