@@ -1,23 +1,26 @@
 {
   "title": "My Stats",
-
   "overview": {
     "title": "Today's Overview",
     "completed_pomodoros": "Completed Pomodoros",
     "focus_minutes": "Focus Minutes",
     "completion_rate": "Completion Rate"
   },
-
   "sessions": {
     "title": "Today's Sessions",
     "count": "({{count}})",
     "empty": "No sessions yet",
     "empty_hint": "Start your first pomodoro!",
-
     "types": {
       "work": "Work",
       "short_break": "Short Break",
       "long_break": "Long Break"
     }
+  },
+  "weekly": {
+    "title": "Last 7 Days",
+    "summary": "{{count}} pomodoros · {{minutes}} focus minutes",
+    "today": "Today",
+    "unit": "Focus minutes per day"
   }
 }

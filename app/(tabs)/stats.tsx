@@ -5,6 +5,7 @@ import { format } from 'date-fns';
 import { useTranslation } from 'react-i18next';
 import { useThemeColors } from '@/hooks/useThemeColors';
 import { usePomodoroStore } from '@/store/usePomodoroStore';
+import WeeklyFocusChart from '@/components/WeeklyFocusChart';
 
 export default function StatsScreen() {
   const { t } = useTranslation();
@@ -105,6 +106,9 @@ export default function StatsScreen() {
           </View>
         </View>
       </View>
+
+      {/* 最近 7 天趋势 */}
+      <WeeklyFocusChart refreshKey={sessions} />
 
       {/* 今日会话列表 */}
       <View style={styles.sessionsSection}>
